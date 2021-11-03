@@ -18,9 +18,7 @@
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" target="_blank">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" target="_blank">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" target="_blank">
- 
-</div>
-  <div class="tenor-gif-embed" data-postid="19912272" data-share-method="host" data-aspect-ratio="0.903125" data-width="100%"><a href="https://tenor.com/view/mandalorian-baby-yoda-star-wars-cute-hide-gif-19912272">Mandalorian Baby Yoda Sticker</a>from <a href="https://tenor.com/search/mandalorian-stickers">Mandalorian Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
   
 <div align="center">   
   <a href="https://wa.me/message/FZRHCLHOIPNXI1" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 	
