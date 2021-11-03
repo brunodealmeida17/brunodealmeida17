@@ -1,16 +1,33 @@
-### Hi there 👋
+### Olá! Meu nome e Bruno de Almeida  👋
 
-<!--
-**brunodealmeida17/brunodealmeida17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Trabalho como estagiario em desenvolvimento backend
+- 🌱 Estou aprendendo Python e Flutter
 
-Here are some ideas to get you started:
+<div align="center">
+  <a href="https://github.com/brunodealmeida17">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunodealmeida17&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunodealmeida17&layout=compact&langs_count=7&theme=dark"/>
+</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_blank">
+   <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" target="_blank">
+   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" target="_blank">
+   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" target="_blank"> 
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" target="_blank">
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" target="_blank">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" target="_blank">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" target="_blank">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" target="_blank">
+ 
+</div>
+  <div class="tenor-gif-embed" data-postid="19912272" data-share-method="host" data-aspect-ratio="0.903125" data-width="100%"><a href="https://tenor.com/view/mandalorian-baby-yoda-star-wars-cute-hide-gif-19912272">Mandalorian Baby Yoda Sticker</a>from <a href="https://tenor.com/search/mandalorian-stickers">Mandalorian Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+  
+<div align="center">   
+  <a href="https://wa.me/message/FZRHCLHOIPNXI1" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 	
+  <a href = "mailto:brunodealmeida17@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/brunodealmeidamiranda/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/brunodealmeida17/brunodealmeida17/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
