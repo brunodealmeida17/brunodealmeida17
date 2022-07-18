@@ -1,7 +1,7 @@
 ### Olá! Meu nome e Bruno de Almeida  👋
 
 - 🔭 Trabalho como estagiario em desenvolvimento backend
-- 🌱 Estou aprendendo Python e Flutter
+- 🌱 Estou aprendendo Python, Django, AWS e postgreSQL
 
 <div align="center">
   <a href="https://github.com/brunodealmeida17">
